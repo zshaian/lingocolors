@@ -1,0 +1,10 @@
+{
+  "name": "lingocolors",
+  "version": "0.1.0",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": ["liguist","colors","programming languages","programming colors"],
+  "author": "zshaian",
+  "license": "MIT",
+  "description": "For Getting The Hex Color Of Programming Languages"
+}
