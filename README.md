@@ -5,7 +5,7 @@ For Getting The Hex Color Of Programming Languages
 ## Installation
 
 ```bash  
-npm install lingoColors
+npm install lingocolors
 ```
 
 ## Usage
