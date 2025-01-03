@@ -4,7 +4,15 @@
   "main": "index.js",
   "types": "index.d.ts",
   "keywords": ["liguist","colors","programming languages","programming colors"],
-  "author": "zshaian",
+  "author": "shaian",
   "license": "MIT",
-  "description": "For Getting The Hex Color Of Programming Languages"
+  "description": "For Getting The Hex Color Of Programming Languages",
+  "homepage": "https://github.com/zshaian/lingocolors",
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/zshaian/lingocolors.git"
+  },
+  "bugs": {
+    "url":"https://github.com/zshaian/lingocolors/issues"
+  }
 }
